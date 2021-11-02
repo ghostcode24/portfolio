@@ -31,7 +31,7 @@ export const projects = [
     description: "A personal software development portfolio site built with Next.js to provide better SEO visibility.",
     image: '/images/4.jpg',
     tags: ['React', 'Next.js', 'Styled Components', ''],
-    source: 'https://google.com',
+    source: 'https://github.com/ghostcode24/portfolio',
     visit: '/',
     id: 3,
   },

@@ -3,7 +3,7 @@ import React from 'react';
 import { AiFillGithub, AiFillLinkedin, AiFillAmazonCircle, AiFillCodepenCircle } from 'react-icons/ai';
 import logo from '../../../public/images/logo.png';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
 
 const Header = () =>  (
   <Container>

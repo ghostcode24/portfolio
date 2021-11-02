@@ -30,6 +30,11 @@ const Header = () =>  (
           <NavLink>About</NavLink>
         </Link>
       </li>
+      <li>
+        <a href="/jerkowski_cv.pdf" download>
+          <NavLink>Resume/CV</NavLink>
+        </a>
+      </li>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/ghostcode24" target="_blank">

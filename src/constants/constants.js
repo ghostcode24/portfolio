@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'ExpenseTracker Pro',
-    description: "A speech-powered financial expense and income that utilizes local storage and data visualization.",
+    description: "A speech-powered financial expense and income app that utilizes local storage and data visualization.",
       image: '/images/3.jpg',
       tags: ['React', 'Material-UI', 'Speechly', 'Context API'],
     source: 'https://github.com/ghostcode24/expense-tracker',
